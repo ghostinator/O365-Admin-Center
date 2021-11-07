@@ -13,5 +13,7 @@
     <File>UpdateCheck.psf</File>
     <File>Startup.pss</File>
     <File>SelectCachedDisplayNames.psf</File>
+    <File>Info_OK.psf</File>
+    <File>SelectLicenses.psf</File>
   </OpenFiles>
 </ProjectState>
