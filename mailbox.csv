@@ -1,7 +1,0 @@
-﻿UserPrincipalName,ObjectWithAccess,ObjectType,AccessType,Inherited,AllowOrDeny
-brandon@ghostinator.com,Brandon Cook (brandon@ghostinator.co),UserMailbox,FullAccess,False,Allow
-claims@ghostinator.co,Brandon Cook (brandon@ghostinator.co),UserMailbox,FullAccess,False,Allow
-DiscoverySearchMailbox{D919BA05-46A6-415f-80AD-7E09334BB852}@ghostinator.onmicrosoft.com,Discovery Management,Other,FullAccess,False,Allow
-fax@ghostinator.co,Brandon Cook (brandon@ghostinator.co),UserMailbox,FullAccess,False,Allow
-req@ghostinator.co,Brandon Cook (brandon@ghostinator.co),UserMailbox,FullAccess,False,Allow
-provantagersa@ghostinator.co,Brandon Cook (brandon@ghostinator.co),UserMailbox,FullAccess,False,Allow
